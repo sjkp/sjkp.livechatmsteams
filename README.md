@@ -10,7 +10,7 @@ The Microsoft Teams bot can currently only be installed by Side Loading it into 
 To get it download the zip from the release page and upload it to your teams tenant following this guide:
 https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/apps/apps-sideload 
 
-Once the bot it install, simply write @Live Chat help to have it return the different messages that it supports. 
+Once the bot is installed, simply write @Live Chat help to have it return the different commands that it supports. 
 
 To get the embed code write @Live Chat GetWebChats 
 
