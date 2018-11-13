@@ -1,4 +1,6 @@
-# SJKP Live Chat Microsoft Teams
+**UPDATE** My Devpost Microsoft teams app is no longer supported, please use the similar offering we created at Delegate A/S  https://appsource.microsoft.com/en-us/product/office/WA104381862?src=webduppage&tab=Overview 
+
+# SJKP Live Chat Microsoft Teams (Deprecated)
 
 Live customer support chat control for your web sites, that uses Microsoft Teams as the backend admin interface.
 
